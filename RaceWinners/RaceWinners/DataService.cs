@@ -16,7 +16,7 @@ public class DataService
         // Add a group
         groups.Add(new Group
         {
-            Name = "Class A",
+            Name = "Class B",
             Ranks = new List<int> {4, 9, 11, 12, 20}  // etc
         });
 
